@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmi/Desktop/Yogesh/Study Material/New folder/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmi/Desktop/Yogesh/Study Material/New folder/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmi/Desktop/Yogesh/Study Material/New folder/httpclient-4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmi/Desktop/Yogesh/Study Material/New folder/httpcore-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmi/Desktop/Yogesh/Study Material/New folder/jackson-core-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmi/Desktop/Yogesh/Study Material/New folder/jackson-jaxrs-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmi/Desktop/Yogesh/Study Material/New folder/jackson-mapper-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmi/Desktop/Yogesh/Study Material/New folder/jackson-xc-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmi/Desktop/Yogesh/Study Material/New folder/jersey-client-1.17.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmi/Desktop/Yogesh/Study Material/New folder/jersey-json-1.17.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmi/Desktop/Yogesh/Study Material/New folder/jersey-server-1.17.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmi/Desktop/Yogesh/Study Material/New folder/jersey-servlet-1.17.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmi/Desktop/Yogesh/Study Material/New folder/jettison-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmi/Desktop/Yogesh/Study Material/New folder/jsr311-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmi/Desktop/Yogesh/Study Material/New folder/xmlparserv2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmi/Desktop/Yogesh/Study Material/New folder/j2ee-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmi/Desktop/Yogesh/Study Material/Jar files/testng/testng-5.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
