@@ -53,6 +53,7 @@ public class IderaWebclient extends ReadPropertiesFile
 			      // specify the get request
 			      HttpPost getRequest = new HttpPost("/IderaCoreServices/Applications");
                 
+			      //data in input
 			      
 			      StringEntity se = new StringEntity( "{\"Name\":\"Yogesh\",\"Abbreviation\":\"Yogesh1\",\"Version\":\"Yogesh1\",\"ServiceBaseUrl\":\"y2k\"}");
 			      se.setContentType(new BasicHeader(HTTP.CONTENT_TYPE, "application/json"));
