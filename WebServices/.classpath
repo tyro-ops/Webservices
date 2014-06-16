@@ -19,5 +19,6 @@
 	<classpathentry kind="lib" path="C:/Users/lakshmi/git/localRepositoryWebserviceAutomation/WebServices/lib/jsr311-api-1.1.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/lakshmi/git/localRepositoryWebserviceAutomation/WebServices/lib/xmlparserv2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/lakshmi/git/localRepositoryWebserviceAutomation/WebServices/lib/testng-5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmi/git/localRepositoryWebserviceAutomation/WebServices/lib/json-simple-1.1.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
