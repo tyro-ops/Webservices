@@ -22,21 +22,20 @@ import com.hashedin.data.ReadPropertiesFile;
 public class IderaWebclient extends ReadPropertiesFile
 {
 	
-	/* For post Method use below parameters to be passed 
-	 * String urlTypeHttp -- http or https
-	 * String urlPort -- 9275
-	 * String baseUrl -- ec2-54-80-107-33.compute-1.amazonaws.com
-	 * String urlMethod -- /IderaCoreServices/Applications
-	 * String urlParameterJson -- {\"Name\":\"Yogesh\",\"Abbreviation\":\"Yogesh1\",\"Version\":\"Yogesh1\",\"ServiceBaseUrl\":\"y2k\"}
-	 * String urlContentType -- application/json
-	 */
+//	 * For post Method use below parameters to be passed 
+//	 * String urlTypeHttp -- http or https
+//	 * String urlPort -- 9275
+//	 * String baseUrl -- ec2-54-80-107-33.compute-1.amazonaws.com
+//	 * String urlMethod -- /IderaCoreServices/Applications
+//	 * String urlParameterJson -- {\"Name\":\"Yogesh\",\"Abbreviation\":\"Yogesh1\",\"Version\":\"Yogesh1\",\"ServiceBaseUrl\":\"y2k\"}
+//	 * String urlContentType -- application/json
+//	 
 	private static ReadPropertiesFile read;
 	public IderaWebclient() {
 		read = new ReadPropertiesFile();
     	read.loadConfig();  
 	}
 
-	
 	@Test
 	public static void POST()//(String urlTypeHttp, String urlPort, String baseUrl, String urlMethod , String urlParameterJson , String urlContentType)
 	{
@@ -45,8 +44,8 @@ public class IderaWebclient extends ReadPropertiesFile
 			    try {
 			      // specify the host, protocol, and port
 
-			  //ReadPropertiesFile read = new ReadPropertiesFile();
-			    //	read.loadConfig();
+			      //ReadPropertiesFile read = new ReadPropertiesFile();
+			      //	read.loadConfig();
 			    	
 			      HttpHost target = new HttpHost(read.getHost(),read.getPort(),read.getProtocol());
 			      
@@ -88,12 +87,12 @@ public class IderaWebclient extends ReadPropertiesFile
 	     
 	
 	
-	/* For get Method use below parameters to be passed 
-	 * String urlTypeHttp -- http or https
-	 * String urlPort -- 9275
-	 * String baseUrl -- ec2-54-80-107-33.compute-1.amazonaws.com
-	 * String urlMethod -- /IderaCoreServices/Applications
-	 */
+//	* For get Method use below parameters to be passed 
+//	 * String urlTypeHttp -- http or https
+//	 * String urlPort -- 9275
+//	 * String baseUrl -- ec2-54-80-107-33.compute-1.amazonaws.com
+//	 * String urlMethod -- /IderaCoreServices/Applications
+//	 
 	
  @Test
  public static void GET()
