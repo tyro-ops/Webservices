@@ -14,7 +14,7 @@ import org.json.simple.JSONObject;
 		JSONObject obj = new JSONObject();
 		obj.put("name", "Yogesh");
 		obj.put("id", new Integer(50));
-	    obj.put("Location", "Bangalore");
+	   
 	    
 	    
 		JSONArray list = new JSONArray();

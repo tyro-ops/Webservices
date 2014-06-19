@@ -4,6 +4,7 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
 	<classpathentry kind="lib" path="C:/Users/lakshmi/git/localRepositoryWebserviceAutomation/WebServices/lib/asm-3.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/lakshmi/git/localRepositoryWebserviceAutomation/WebServices/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmi/git/localRepositoryWebserviceAutomation/WebServices/lib/dom4j-1.6.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/lakshmi/git/localRepositoryWebserviceAutomation/WebServices/lib/httpclient-4.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/lakshmi/git/localRepositoryWebserviceAutomation/WebServices/lib/httpcore-4.0.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/lakshmi/git/localRepositoryWebserviceAutomation/WebServices/lib/j2ee-1.4.jar"/>
@@ -16,9 +17,13 @@
 	<classpathentry kind="lib" path="C:/Users/lakshmi/git/localRepositoryWebserviceAutomation/WebServices/lib/jersey-server-1.17.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/lakshmi/git/localRepositoryWebserviceAutomation/WebServices/lib/jersey-servlet-1.17.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/lakshmi/git/localRepositoryWebserviceAutomation/WebServices/lib/jettison-1.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/lakshmi/git/localRepositoryWebserviceAutomation/WebServices/lib/jsr311-api-1.1.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/lakshmi/git/localRepositoryWebserviceAutomation/WebServices/lib/xmlparserv2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/lakshmi/git/localRepositoryWebserviceAutomation/WebServices/lib/testng-5.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/lakshmi/git/localRepositoryWebserviceAutomation/WebServices/lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmi/git/localRepositoryWebserviceAutomation/WebServices/lib/jsr311-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmi/git/localRepositoryWebserviceAutomation/WebServices/lib/poi-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmi/git/localRepositoryWebserviceAutomation/WebServices/lib/poi-ooxml-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmi/git/localRepositoryWebserviceAutomation/WebServices/lib/poi-ooxml-schemas-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmi/git/localRepositoryWebserviceAutomation/WebServices/lib/testng-6.8.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmi/git/localRepositoryWebserviceAutomation/WebServices/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lakshmi/git/localRepositoryWebserviceAutomation/WebServices/lib/xmlparserv2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
